@@ -27,6 +27,7 @@ namespace WalkingMan2
                 if (loopCounter == 0)
                 {
                     this.picMan.Image = WalkingMan2.Properties.Resources.walk2;
+                    //hurp
                 }
                 else if (loopCounter == 1)
                 {
